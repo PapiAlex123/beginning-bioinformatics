@@ -1,2 +1,1 @@
-# beginning-bioinformatics-
-Beginning bioinformatics course code 
+Alex Thomas + 1002358150 + BIOL-5340-001
