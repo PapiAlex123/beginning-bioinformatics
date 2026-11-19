@@ -49,8 +49,6 @@ project/
 - **README.md:** Project overview, dataset, methods, and repository guide.
 - **NASA_RR1_Sample_Size_Benchmark.ipynb:** Main notebook containing the analysis.
 - **ai_usage.md:** Documentation of AI tools used during the project.
-- **environment.yml:** Software environment and package information.
-- **figures/:** Figures generated during the analysis.
 
 ## Current Progress
 
