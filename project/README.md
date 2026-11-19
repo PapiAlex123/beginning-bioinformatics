@@ -44,8 +44,6 @@ project/
 ├── README.md
 ├── NASA_RR1_Sample_Size_Benchmark.ipynb
 ├── ai_usage.md
-├── environment.yml
-└── figures/
 ```
 
 - **README.md:** Project overview, dataset, methods, and repository guide.
